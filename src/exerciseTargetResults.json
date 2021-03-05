@@ -1,0 +1,5243 @@
+{
+  "5766469879": {
+    "id": 102469519,
+    "exerciseReference": {
+      "id": 5766469879
+    },
+    "sport": {
+      "id": 1
+    },
+    "name": "Интервалы",
+    "type": "PHASED",
+    "duration": null,
+    "distance": null,
+    "kiloCalories": null,
+    "targetReached": null,
+    "racePaceSpeed": null,
+    "racePaceEndIndexForMap": null,
+    "racePaceResult": null,
+    "onDemandTypeId": null,
+    "exercisePhasedTargetData": [
+      {
+        "id": 598716029,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406614
+        },
+        "lapNumber": 0,
+        "phaseRepetitionIndex": 1,
+        "name": "Разминка",
+        "splitTime": {
+          "standardSeconds": 2131,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 35,
+          "millis": 2131500
+        },
+        "startSplitTime": {
+          "standardSeconds": 0,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 0,
+          "millis": 0
+        },
+        "duration": {
+          "standardSeconds": 2131,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 35,
+          "millis": 2131500
+        },
+        "splitDistance": 6001.2001953125,
+        "startSplitDistance": 1.2001953125,
+        "distance": 6000,
+        "goalType": "DISTANCE",
+        "goalDistance": 6000,
+        "goalDuration": null,
+        "zoneType": "HEART_RATE_ZONES",
+        "lowerZone": 1,
+        "upperZone": 2,
+        "inZone": {
+          "standardSeconds": 1614,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 26,
+          "millis": 1614750
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 137,
+            "max": 153,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 10.1357,
+            "max": 14.2,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 82,
+            "max": 92,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2131500
+      },
+      {
+        "id": 598716034,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 1,
+        "phaseRepetitionIndex": 1,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 2230,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 37,
+          "millis": 2230500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2139,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 35,
+          "millis": 2139000
+        },
+        "duration": {
+          "standardSeconds": 91,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 91500
+        },
+        "splitDistance": 6421.60009765625,
+        "startSplitDistance": 6021.60009765625,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 82,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 82375
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 156,
+            "max": 167,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.8243,
+            "max": 17.2,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 95,
+            "max": 102,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2223000
+      },
+      {
+        "id": 598716039,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 2,
+        "phaseRepetitionIndex": 1,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 2309,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 38,
+          "millis": 2309500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2230,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 37,
+          "millis": 2230500
+        },
+        "duration": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79000
+        },
+        "splitDistance": 6622.2998046875,
+        "startSplitDistance": 6422.2998046875,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 166,
+            "max": 172,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.14582,
+            "max": 15.5,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 81,
+            "max": 98,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2302000
+      },
+      {
+        "id": 598716044,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 3,
+        "phaseRepetitionIndex": 2,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 2404,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 40,
+          "millis": 2404500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2309,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 38,
+          "millis": 2309500
+        },
+        "duration": {
+          "standardSeconds": 95,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 95000
+        },
+        "splitDistance": 7022.89990234375,
+        "startSplitDistance": 6622.89990234375,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 84,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 84375
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 168,
+            "max": 184,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.2072,
+            "max": 17.3,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 96,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2397000
+      },
+      {
+        "id": 598716049,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 4,
+        "phaseRepetitionIndex": 2,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 2486,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 41,
+          "millis": 2486500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2404,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 40,
+          "millis": 2404500
+        },
+        "duration": {
+          "standardSeconds": 82,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 82000
+        },
+        "splitDistance": 7223.60009765625,
+        "startSplitDistance": 7023.60009765625,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 156,
+            "max": 185,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 8.81122,
+            "max": 15.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 80,
+            "max": 97,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2479000
+      },
+      {
+        "id": 598716054,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 5,
+        "phaseRepetitionIndex": 3,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 2578,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 42,
+          "millis": 2578500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2486,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 41,
+          "millis": 2486500
+        },
+        "duration": {
+          "standardSeconds": 92,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 92000
+        },
+        "splitDistance": 7623.89990234375,
+        "startSplitDistance": 7223.89990234375,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 81,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 81375
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 153,
+            "max": 160,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.6913,
+            "max": 16.5,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 96,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2571000
+      },
+      {
+        "id": 598716059,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 6,
+        "phaseRepetitionIndex": 3,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 2666,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 44,
+          "millis": 2666500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2578,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 42,
+          "millis": 2578500
+        },
+        "duration": {
+          "standardSeconds": 88,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 88000
+        },
+        "splitDistance": 7825.7001953125,
+        "startSplitDistance": 7625.7001953125,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 157,
+            "max": 164,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 8.25546,
+            "max": 15.1,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 80,
+            "max": 97,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2659000
+      },
+      {
+        "id": 598716064,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 7,
+        "phaseRepetitionIndex": 4,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 2761,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 46,
+          "millis": 2761500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2666,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 44,
+          "millis": 2666500
+        },
+        "duration": {
+          "standardSeconds": 95,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 95000
+        },
+        "splitDistance": 8224.5,
+        "startSplitDistance": 7824.5,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 85,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 85375
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 148,
+            "max": 158,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.1806,
+            "max": 16.3,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 94,
+            "max": 96,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2754000
+      },
+      {
+        "id": 598716069,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 8,
+        "phaseRepetitionIndex": 4,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 2840,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 47,
+          "millis": 2840500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2761,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 46,
+          "millis": 2761500
+        },
+        "duration": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79000
+        },
+        "splitDistance": 8426.7001953125,
+        "startSplitDistance": 8226.7001953125,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 145,
+            "max": 150,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.21418,
+            "max": 15.6,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 81,
+            "max": 96,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2833000
+      },
+      {
+        "id": 598716074,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 9,
+        "phaseRepetitionIndex": 5,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 2939,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 48,
+          "millis": 2939500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2840,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 47,
+          "millis": 2840500
+        },
+        "duration": {
+          "standardSeconds": 99,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 99000
+        },
+        "splitDistance": 8828,
+        "startSplitDistance": 8428,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 75,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 75500
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 141,
+            "max": 147,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 14.6727,
+            "max": 16.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 94,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 2932000
+      },
+      {
+        "id": 598716079,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 10,
+        "phaseRepetitionIndex": 5,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3019,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 50,
+          "millis": 3019500
+        },
+        "startSplitTime": {
+          "standardSeconds": 2939,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 48,
+          "millis": 2939500
+        },
+        "duration": {
+          "standardSeconds": 80,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 80000
+        },
+        "splitDistance": 9030.099609375,
+        "startSplitDistance": 8830.099609375,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 141,
+            "max": 151,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.0945,
+            "max": 16.3,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 81,
+            "max": 96,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3012000
+      },
+      {
+        "id": 598716084,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 11,
+        "phaseRepetitionIndex": 6,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 3114,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 51,
+          "millis": 3114500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3019,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 50,
+          "millis": 3019500
+        },
+        "duration": {
+          "standardSeconds": 95,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 95000
+        },
+        "splitDistance": 9429.400390625,
+        "startSplitDistance": 9029.400390625,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 83,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 83500
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 141,
+            "max": 147,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.2109,
+            "max": 16.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 95,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3107000
+      },
+      {
+        "id": 598716089,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 12,
+        "phaseRepetitionIndex": 6,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3194,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 53,
+          "millis": 3194375
+        },
+        "startSplitTime": {
+          "standardSeconds": 3114,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 51,
+          "millis": 3114500
+        },
+        "duration": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79875
+        },
+        "splitDistance": 9630.2001953125,
+        "startSplitDistance": 9430.2001953125,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 149,
+            "max": 156,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.05014,
+            "max": 15.3,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 83,
+            "max": 97,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3186875
+      },
+      {
+        "id": 598716094,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 13,
+        "phaseRepetitionIndex": 7,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 3289,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 54,
+          "millis": 3289500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3194,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 53,
+          "millis": 3194375
+        },
+        "duration": {
+          "standardSeconds": 95,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 95125
+        },
+        "splitDistance": 10030.599609375,
+        "startSplitDistance": 9630.599609375,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79625
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 124,
+            "max": 132,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.1834,
+            "max": 16.2,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 91,
+            "max": 101,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3282000
+      },
+      {
+        "id": 598716099,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 14,
+        "phaseRepetitionIndex": 7,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3367,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 56,
+          "millis": 3367500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3289,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 54,
+          "millis": 3289500
+        },
+        "duration": {
+          "standardSeconds": 78,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 78000
+        },
+        "splitDistance": 10232.400390625,
+        "startSplitDistance": 10032.400390625,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 149,
+            "max": 154,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.31385,
+            "max": 15,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 82,
+            "max": 95,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3360000
+      },
+      {
+        "id": 598716104,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 15,
+        "phaseRepetitionIndex": 8,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 3465,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 57,
+          "millis": 3465500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3367,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 56,
+          "millis": 3367500
+        },
+        "duration": {
+          "standardSeconds": 98,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 98000
+        },
+        "splitDistance": 10634,
+        "startSplitDistance": 10234,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 81,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 81625
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 139,
+            "max": 152,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 14.8188,
+            "max": 16.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 95,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3458000
+      },
+      {
+        "id": 598716109,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 16,
+        "phaseRepetitionIndex": 8,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3546,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 59,
+          "millis": 3546500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3465,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 57,
+          "millis": 3465500
+        },
+        "duration": {
+          "standardSeconds": 81,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 81000
+        },
+        "splitDistance": 10836,
+        "startSplitDistance": 10636,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 142,
+            "max": 148,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 8.97778,
+            "max": 15.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 82,
+            "max": 97,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3539000
+      },
+      {
+        "id": 598716114,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 17,
+        "phaseRepetitionIndex": 9,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 3642,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 60,
+          "millis": 3642500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3546,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 59,
+          "millis": 3546500
+        },
+        "duration": {
+          "standardSeconds": 96,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 96000
+        },
+        "splitDistance": 11236.7001953125,
+        "startSplitDistance": 10836.7001953125,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 83,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 83625
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 144,
+            "max": 150,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 15.1012,
+            "max": 15.9,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 95,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3635000
+      },
+      {
+        "id": 598716119,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 18,
+        "phaseRepetitionIndex": 9,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3726,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 62,
+          "millis": 3726500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3642,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 60,
+          "millis": 3642500
+        },
+        "duration": {
+          "standardSeconds": 84,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 84000
+        },
+        "splitDistance": 11438.7001953125,
+        "startSplitDistance": 11238.7001953125,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 141,
+            "max": 145,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 8.65714,
+            "max": 15.1,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 82,
+            "max": 97,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3719000
+      },
+      {
+        "id": 598716124,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406619
+        },
+        "lapNumber": 19,
+        "phaseRepetitionIndex": 10,
+        "name": "Работа",
+        "splitTime": {
+          "standardSeconds": 3816,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 63,
+          "millis": 3816500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3726,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 62,
+          "millis": 3726500
+        },
+        "duration": {
+          "standardSeconds": 90,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 90000
+        },
+        "splitDistance": 11836.7001953125,
+        "startSplitDistance": 11436.7001953125,
+        "distance": 400,
+        "goalType": "DISTANCE",
+        "goalDistance": 400,
+        "goalDuration": null,
+        "zoneType": "SPEED_ZONES",
+        "lowerZone": 3,
+        "upperZone": 4,
+        "inZone": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79500
+        },
+        "statistics": {
+          "heartRate": {
+            "avg": 145,
+            "max": 153,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 16,
+            "max": 16.6,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 97,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3809000
+      },
+      {
+        "id": 598716129,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 33,
+          "millisOfSecond": 0,
+          "millisOfDay": 66393000,
+          "secondOfDay": 66393,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882393000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406624
+        },
+        "lapNumber": 20,
+        "phaseRepetitionIndex": 10,
+        "name": "Отдых",
+        "splitTime": {
+          "standardSeconds": 3895,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 64,
+          "millis": 3895500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3816,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 63,
+          "millis": 3816500
+        },
+        "duration": {
+          "standardSeconds": 79,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 1,
+          "millis": 79000
+        },
+        "splitDistance": 12037.400390625,
+        "startSplitDistance": 11837.400390625,
+        "distance": 200,
+        "goalType": "DISTANCE",
+        "goalDistance": 200,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 151,
+            "max": 159,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 9.14582,
+            "max": 16.4,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 33,
+              "millisOfSecond": 0,
+              "millisOfDay": 66393000,
+              "secondOfDay": 66393,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882393000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 84,
+            "max": 99,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 34,
+              "millisOfSecond": 0,
+              "millisOfDay": 66394000,
+              "secondOfDay": 66394,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882394000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 3888000
+      },
+      {
+        "id": 598716134,
+        "created": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 34,
+          "millisOfSecond": 0,
+          "millisOfDay": 66394000,
+          "secondOfDay": 66394,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882394000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "modified": {
+          "era": 1,
+          "dayOfYear": 63,
+          "dayOfWeek": 4,
+          "dayOfMonth": 4,
+          "year": 2021,
+          "centuryOfEra": 20,
+          "yearOfEra": 2021,
+          "yearOfCentury": 21,
+          "weekyear": 2021,
+          "monthOfYear": 3,
+          "weekOfWeekyear": 9,
+          "hourOfDay": 18,
+          "minuteOfHour": 26,
+          "secondOfMinute": 34,
+          "millisOfSecond": 0,
+          "millisOfDay": 66394000,
+          "secondOfDay": 66394,
+          "minuteOfDay": 1106,
+          "zone": {
+            "fixed": true,
+            "id": "UTC"
+          },
+          "millis": 1614882394000,
+          "chronology": {
+            "zone": {
+              "fixed": true,
+              "id": "UTC"
+            }
+          },
+          "afterNow": false,
+          "beforeNow": true,
+          "equalNow": false
+        },
+        "exercisePhase": {
+          "id": 265406629
+        },
+        "lapNumber": 21,
+        "phaseRepetitionIndex": 1,
+        "name": "Заминка",
+        "splitTime": {
+          "standardSeconds": 5112,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 85,
+          "millis": 5112500
+        },
+        "startSplitTime": {
+          "standardSeconds": 3895,
+          "standardDays": 0,
+          "standardHours": 1,
+          "standardMinutes": 64,
+          "millis": 3895500
+        },
+        "duration": {
+          "standardSeconds": 1217,
+          "standardDays": 0,
+          "standardHours": 0,
+          "standardMinutes": 20,
+          "millis": 1217000
+        },
+        "splitDistance": 14991.7998046875,
+        "startSplitDistance": 12036.69970703125,
+        "distance": 2955.10009765625,
+        "goalType": "DISTANCE",
+        "goalDistance": 3000,
+        "goalDuration": null,
+        "zoneType": "NONE",
+        "lowerZone": null,
+        "upperZone": null,
+        "inZone": null,
+        "statistics": {
+          "heartRate": {
+            "avg": 149,
+            "max": 166,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 34,
+              "millisOfSecond": 0,
+              "millisOfDay": 66394000,
+              "secondOfDay": 66394,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882394000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "speed": {
+            "avg": 8.74865,
+            "max": 10.9,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 34,
+              "millisOfSecond": 0,
+              "millisOfDay": 66394000,
+              "secondOfDay": 66394,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882394000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "cadence": {
+            "avg": 81,
+            "max": 85,
+            "modified": {
+              "era": 1,
+              "dayOfYear": 63,
+              "dayOfWeek": 4,
+              "dayOfMonth": 4,
+              "year": 2021,
+              "centuryOfEra": 20,
+              "yearOfEra": 2021,
+              "yearOfCentury": 21,
+              "weekyear": 2021,
+              "monthOfYear": 3,
+              "weekOfWeekyear": 9,
+              "hourOfDay": 18,
+              "minuteOfHour": 26,
+              "secondOfMinute": 34,
+              "millisOfSecond": 0,
+              "millisOfDay": 66394000,
+              "secondOfDay": 66394,
+              "minuteOfDay": 1106,
+              "zone": {
+                "fixed": true,
+                "id": "UTC"
+              },
+              "millis": 1614882394000,
+              "chronology": {
+                "zone": {
+                  "fixed": true,
+                  "id": "UTC"
+                }
+              },
+              "afterNow": false,
+              "beforeNow": true,
+              "equalNow": false
+            },
+            "min": null
+          },
+          "power": null
+        },
+        "finished": false,
+        "movementId": null,
+        "movementEcosystemWideId": null,
+        "setType": null,
+        "strengthWorkoutPhase": null,
+        "splitDuration": 5105000
+      }
+    ],
+    "racePaceTarget": false,
+    "distanceVolumeTarget": false,
+    "durationVolumeTarget": false,
+    "kiloCaloriesVolumeTarget": false,
+    "onDemandTarget": false,
+    "racePaceAhead": null
+  }
+}
