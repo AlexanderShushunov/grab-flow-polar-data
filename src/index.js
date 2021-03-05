@@ -64,7 +64,6 @@ function grabDayOfWeek() {
 }
 
 async function formatReport () {
-  const id = getFirstKey()
   const link = await shareTraining(trainingSessionId)
   let work = 'Продолжительность'
   if (grabDurations().includes(',')) {
