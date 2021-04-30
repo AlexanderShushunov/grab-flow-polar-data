@@ -827,7 +827,7 @@
           "standardDays": 0,
           "standardHours": 0,
           "standardMinutes": 1,
-          "millis": 95000
+          "millis": 65000
         },
         "splitDistance": 7022.89990234375,
         "startSplitDistance": 6622.89990234375,
@@ -1360,7 +1360,7 @@
             "min": null
           },
           "speed": {
-            "avg": 15.6913,
+            "avg": 10.6913,
             "max": 16.5,
             "modified": {
               "era": 1,

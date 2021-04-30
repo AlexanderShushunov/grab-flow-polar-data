@@ -31,7 +31,7 @@ describe('grabAvgPace', () => {
   test('grab avg pace', () => {
     expect(
       grabAvgPace()
-    ).toEqual('3:55')
+    ).toEqual('4:03')
   })
 })
 
@@ -39,6 +39,6 @@ describe('grabDurations', () => {
   test('grab avg duration', () => {
     expect(
       grabDurations()
-    ).toEqual('1:32, 1:35, 1:32, 1:35, 1:39, 1:35, 1:35, 1:38, 1:36, 1:30')
+    ).toEqual('1:32, 1:05, 1:32, 1:35, 1:39, 1:35, 1:35, 1:38, 1:36, 1:30')
   })
 })

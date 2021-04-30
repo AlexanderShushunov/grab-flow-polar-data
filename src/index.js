@@ -32,7 +32,7 @@ function speedToPace (speed) {
   const paceInMinutes = 60 / speed
   const min = Math.floor(paceInMinutes)
   const sec = Math.round(60 * (paceInMinutes - min))
-  return `${min}:${sec}`
+  return formatTime(min, sec)
 }
 
 function grabAvgPace () {
@@ -40,13 +40,17 @@ function grabAvgPace () {
     .map(({ statistics }) => statistics.speed.avg)
     .reduce((acc, speed) => acc + speed, 0) / grabWorkingPhases().length
   return speedToPace(avgSpeed)
-
 }
 
 function formatMs (ms) {
   const min = Math.floor(ms / 1000 / 60)
   const sec = Math.round(ms / 1000 - (min * 60))
-  return `${min}:${sec}`
+  return formatTime(min, sec)
+}
+
+function formatTime(min, sec) {
+  const padSec = sec.toString().padStart(2, '0')
+  return `${min}:${padSec}`
 }
 
 function grabDurations () {
